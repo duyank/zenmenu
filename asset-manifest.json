@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.405f28d4.chunk.css",
-    "main.js": "/static/js/main.60ca029d.chunk.js",
-    "main.js.map": "/static/js/main.60ca029d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f8d965f8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f8d965f8.js.map",
-    "static/js/2.186de452.chunk.js": "/static/js/2.186de452.chunk.js",
-    "static/js/2.186de452.chunk.js.map": "/static/js/2.186de452.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.405f28d4.chunk.css.map": "/static/css/main.405f28d4.chunk.css.map",
-    "static/js/2.186de452.chunk.js.LICENSE.txt": "/static/js/2.186de452.chunk.js.LICENSE.txt"
+    "main.css": "https://duyank.github.io/zenmenu/static/css/main.405f28d4.chunk.css",
+    "main.js": "https://duyank.github.io/zenmenu/static/js/main.45eb9c93.chunk.js",
+    "main.js.map": "https://duyank.github.io/zenmenu/static/js/main.45eb9c93.chunk.js.map",
+    "runtime-main.js": "https://duyank.github.io/zenmenu/static/js/runtime-main.273ee88b.js",
+    "runtime-main.js.map": "https://duyank.github.io/zenmenu/static/js/runtime-main.273ee88b.js.map",
+    "static/js/2.186de452.chunk.js": "https://duyank.github.io/zenmenu/static/js/2.186de452.chunk.js",
+    "static/js/2.186de452.chunk.js.map": "https://duyank.github.io/zenmenu/static/js/2.186de452.chunk.js.map",
+    "index.html": "https://duyank.github.io/zenmenu/index.html",
+    "static/css/main.405f28d4.chunk.css.map": "https://duyank.github.io/zenmenu/static/css/main.405f28d4.chunk.css.map",
+    "static/js/2.186de452.chunk.js.LICENSE.txt": "https://duyank.github.io/zenmenu/static/js/2.186de452.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8d965f8.js",
+    "static/js/runtime-main.273ee88b.js",
     "static/js/2.186de452.chunk.js",
     "static/css/main.405f28d4.chunk.css",
-    "static/js/main.60ca029d.chunk.js"
+    "static/js/main.45eb9c93.chunk.js"
   ]
 }
